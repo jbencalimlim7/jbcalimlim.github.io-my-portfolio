@@ -5,7 +5,7 @@
 
 ## Live Website
 You can view my live website here:  
-[Live Website](https://cmsc-100-2s-ay2024-2025.github.io/exer-01-html-and-css-jbcalimlim/)
+[Live Website](https://jbencalimlim7.github.io/jbcalimlim.github.io-my-portfolio/)
 
 ## Steps on How to Create a GitHub Page:
 1. First, create a repository and push your `index.html` and `style.css` files.
